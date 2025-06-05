@@ -1,5 +1,5 @@
 # BTAE Auth module. PLEASE DONT EDIT
-
+# downloaded from msgr-patches for 3.8!
 import socket
 import os
 
