@@ -1,5 +1,5 @@
 # BTAE Auth module. PLEASE DONT EDIT
-
+# downloaded from msgr-patches!
 import socket
 import os
 
