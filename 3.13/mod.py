@@ -1,5 +1,6 @@
-# encoding: windows-1251
 # downloaded from msgr-patches!
+# encoding: windows-1251
+
 # BTAE Utils module. PLEASE DONT EDIT
 
 from __future__ import annotations
